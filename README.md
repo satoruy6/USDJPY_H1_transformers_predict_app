@@ -1,0 +1,2 @@
+# USDJPY_H1_transformers_predict_app
+USDJPYの1時間足が、陽線になるか陰線になるかをtransformersを使用して予測するアプリ
